@@ -1,0 +1,23 @@
+criar um novo projeto react usando o comando "create-react-app" seguido do nome do projeto. Por exemplo:
+Download
+Copy code
+create-react-app my-react-app
+Isso criará uma nova pasta chamada "my-react-app" no diretório atual, com a estrutura básica de um projeto react.
+
+Agora, você precisa instalar as dependências do projeto. Para fazer isso, navegue até a pasta do projeto e execute o comando "npm install":
+
+Download
+Copy code
+cd my-react-app
+npm install
+Por fim, inicie o servidor de desenvolvimento local executando o comando "npm start" na pasta do projeto:
+Download
+Copy code
+npm start
+Agora você pode ver seu aplicativo react em execução no navegador, acessando http://localhost:3000/.
+Ao seguir esses passos, você terá criado e executado com sucesso um projeto react. Para criar componentes e adicionar funcionalidades, você pode modificar os arquivos no diretório "src" do projeto.
+
+OBS: O gerenciador de pacotes Yarn pode ser usado em vez do npm, caso preferir. Para isso, siga os mesmos passos, substituindo o "npm" pelos comandos equivalentes do Yarn.
+
+
+
